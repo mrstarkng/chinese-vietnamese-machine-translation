@@ -1,0 +1,8 @@
+flask
+flask_cors
+python-dotenv
+requests
+PyMuPDF
+Levenshtein
+google-generativeai
+XlsxWriter
