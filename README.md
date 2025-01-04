@@ -1,5 +1,5 @@
 
-# Awesome-Align-Modified
+# awesome-align-modified
 
 This repository contains a modified version of the original Awesome-Align framework. It includes additional fine-tuning on the Chinese-Vietnamese dataset and specific updates for our use case.
 
